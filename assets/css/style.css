@@ -18,7 +18,7 @@
   font-family: "poppins";
 }
 .bg-img {
-  background-image: url("/assets/img/png/bg-img.png");
+  background-image: url("/assets/img/png/hreo-img.gif");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 100% 100%;
@@ -359,10 +359,10 @@ ul {
     padding: 18px 40px !important;
   }
   .tranform {
-    transform: translateY(85%);
+    transform: translateY(70%);
   }
   .tranform1 {
-    transform: translateY(30%);
+    transform: translateY(40%);
   }
 }
 @media (min-width: 768px) {
