@@ -18,10 +18,11 @@
   font-family: "poppins";
 }
 .bg-img {
-  background-image: url("/assets/img/png/bg-img.png");
+  background-image: url("/assets/img/png/hreo-img.gif");
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% 100%;
+  /* background-size: 100% 100%; */
+  background-size: cover;
 }
 .bg-img2 {
   background-image: url("/assets/img/png/bg-img-footer.png");
